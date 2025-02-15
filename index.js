@@ -1,2 +1,2 @@
-// add new featuer -butto
-// js - button
+// add new featuer -button
+// js 
